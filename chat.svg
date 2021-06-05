@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="155" height="42" rx="18.0355" />
+    <rect width="165" height="42" rx="18.0355" />
     <text x="15" y="27">Selam Ben İbrahim</text>
   </g>
 
@@ -274,7 +274,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="441" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Ankarada Yaşıyorum Bu Aralar İzmirde Konaklıyorum.</text>
    
       
@@ -302,7 +302,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Android geliştiricisiyim</text>
-    <text x="15" y="50">Java Android, Kotlin Ve Dart Flutter Alanlarda Kendimi Geliştiriyorum.Eğitimler Alıyorum.</text>
+    <text x="15" y="50">Java Android, Kotlin Ve Dart Flutter</text>
   </g>
 
   <!-- typing 4 -->
@@ -352,7 +352,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <rect width="235" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Uğradığınız İçin Teşekkürler</text>
   </g>
 
